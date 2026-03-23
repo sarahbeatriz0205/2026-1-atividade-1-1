@@ -29,7 +29,7 @@
   - [ **X** ] 2.1: Criar o arquivo `app/Dockerfile.dev`
   - [ **X**  ] 2.2: Construir a imagem de desenvolvimento
   - [ **X** ] 2.3: Executar container de desenvolvimento com volume mapeado
-- [  ] 3. Criar e configurar a aplicação Django
+- [ **X** ] 3. Criar e configurar a aplicação Django
   - [ **X** ] 3.1: Dentro do container, criar o projeto Django
   - [ **X** ] 3.2: Criar uma aplicação Django
   - [ **X** ] 3.3: Configurar o banco de dados SQLite3
@@ -37,13 +37,13 @@
   - [ **X** ] 3.5: Configurar ALLOWED_HOSTS
   - [ **X** ] 3.6: Executar as migrações do banco de dados
   - [ **X** ] 3.7: Criar superusuário (admin)
-  - [ ] 3.8: Criar uma view simples
-  - [ ] 3.9: Configurar URLs da aplicação
-  - [ ] 3.10: Configurar URLs do projeto
+  - [ **X** ] 3.8: Criar uma view simples
+  - [ **X** ] 3.9: Configurar URLs da aplicação
+  - [ **X** ] 3.10: Configurar URLs do projeto
 - [ ] 4. Executar e acessar a aplicação Django
-  - [ ] 4.1: Executar o servidor de desenvolvimento
-  - [ ] 4.2: Testar a aplicação
-- [ ] Parte final. relatório
+  - [ **X** ] 4.1: Executar o servidor de desenvolvimento
+  - [ **X** ] 4.2: Testar a aplicação
+- [ **X** ] Parte final. relatório
 
 ### Parte 1: Preparação do projeto
 
