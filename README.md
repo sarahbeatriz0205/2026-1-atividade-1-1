@@ -20,23 +20,23 @@
 ## Atividade
 
 ### Checklist
-- [ ] 1. Preparação do projeto
-  - [ ] 1.1: Fork desse repositório para sua conta pessoal
-  - [ ] 1.2: Clone do repositório github (remoto) para o computador local
-  - [ ] 1.3: Na pasta do repositório, crie a pasta `app`
-  - [ ] 1.4: Criar arquivo `app/requirements.txt`
-- [ ] 2. Criar a imagem docker e executar o conteiner
-  - [ ] 2.1: Criar o arquivo `app/Dockerfile.dev`
-  - [ ] 2.2: Construir a imagem de desenvolvimento
-  - [ ] 2.3: Executar container de desenvolvimento com volume mapeado
-- [ ] 3. Criar e configurar a aplicação Django
-  - [ ] 3.1: Dentro do container, criar o projeto Django
-  - [ ] 3.2: Criar uma aplicação Django
-  - [ ] 3.3: Configurar o banco de dados SQLite3
-  - [ ] 3.4: Adicionar a aplicação ao settings.py
-  - [ ] 3.5: Configurar ALLOWED_HOSTS
-  - [ ] 3.6: Executar as migrações do banco de dados
-  - [ ] 3.7: Criar superusuário (admin)
+- [ **X** ] 1. Preparação do projeto
+  - [ **X** ] 1.1: Fork desse repositório para sua conta pessoal
+  - [ **X** ] 1.2: Clone do repositório github (remoto) para o computador local
+  - [ **X** ] 1.3: Na pasta do repositório, crie a pasta `app`
+  - [ **X** ] 1.4: Criar arquivo `app/requirements.txt`
+- [ **X** ] 2. Criar a imagem docker e executar o conteiner
+  - [ **X** ] 2.1: Criar o arquivo `app/Dockerfile.dev`
+  - [ **X**  ] 2.2: Construir a imagem de desenvolvimento
+  - [ **X** ] 2.3: Executar container de desenvolvimento com volume mapeado
+- [  ] 3. Criar e configurar a aplicação Django
+  - [ **X** ] 3.1: Dentro do container, criar o projeto Django
+  - [ **X** ] 3.2: Criar uma aplicação Django
+  - [ **X** ] 3.3: Configurar o banco de dados SQLite3
+  - [ **X** ] 3.4: Adicionar a aplicação ao settings.py
+  - [ **X** ] 3.5: Configurar ALLOWED_HOSTS
+  - [ **X** ] 3.6: Executar as migrações do banco de dados
+  - [ **X** ] 3.7: Criar superusuário (admin)
   - [ ] 3.8: Criar uma view simples
   - [ ] 3.9: Configurar URLs da aplicação
   - [ ] 3.10: Configurar URLs do projeto
@@ -189,6 +189,16 @@ Quando solicitado, preencha:
 - **Email**: (pode deixar em branco ou colocar um email qualquer)
 - **Password**: 321
 - **Password (again)**: 321
+
+~~~
+> OBS: Eu não vi essa parte e acabei colocando meu e-mail real, outro nome e senha
+
+- **Username:** app-so
+- **Email**: sarah.nascimento02052007@gmail.com
+- **Password:** ifrnso
+~~~
+
+
 
 **Nota**: Você receberá um aviso de que a senha é muito curta e comum. Digite `y` para confirmar.
 
